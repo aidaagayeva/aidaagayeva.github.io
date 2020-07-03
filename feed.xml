@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aida Agayeva</title>
-    <description>Writer, Journalist, and Content Strategist</description>
+    <description>Writer. Journalist. Content Strategist.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Apr 2020 20:12:36 -0700</pubDate>
-    <lastBuildDate>Sun, 05 Apr 2020 20:12:36 -0700</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2020 13:43:41 -0400</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2020 13:43:41 -0400</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -18,7 +18,7 @@
   &lt;li&gt;&lt;a href=&quot;/images/burlingame.pdf&quot;&gt;Achieving the Perfect Flushing System: What the City of Burlingame is Doing to Improve Operations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 14 Dec 2019 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/works/technical-writing.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/technical-writing.html</guid>
         
@@ -46,7 +46,7 @@
   &lt;li&gt;&lt;a href=&quot;/images/research_paper.pdf&quot;&gt;The Importance of Biblical Images and their Meaning&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 14 Dec 2019 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/works/miscellaneous.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/miscellaneous.html</guid>
         
@@ -80,7 +80,7 @@
   &lt;li&gt;&lt;a href=&quot;http://media.licdn.com/embeds/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FG1Qv7rE4xic%3Ffeature%3Doembed&amp;amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DG1Qv7rE4xic&amp;amp;type=text%2Fhtml&amp;amp;schema=youtube&quot;&gt;Kitchen Remodel in 8 Days Promo Video&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 14 Dec 2019 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/works/content-writing.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/content-writing.html</guid>
         
@@ -97,7 +97,25 @@
     
       <item>
         <title>Articles</title>
-        <description>&lt;h4 id=&quot;smart-meetings&quot;&gt;&lt;a href=&quot;https://www.smartmeetings.com/&quot;&gt;Smart Meetings&lt;/a&gt;&lt;/h4&gt;
+        <description>&lt;h4 id=&quot;the-bold-italic&quot;&gt;&lt;a href=&quot;https://thebolditalic.com/&quot;&gt;The Bold Italic&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebolditalic.com/support-black-businesses-a-list-of-10-bay-area-places-to-get-your-next-meal-b8605216e567&quot;&gt;10 Bay Area Black-Owned Restaurants to Get Your Next Meal From&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;peace-data&quot;&gt;&lt;a href=&quot;https://peacedata.net&quot;&gt;Peace Data&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://peacedata.net/the-other-america-how-the-covid-19-pandemic-has-widened-an-existing-rift-in-educational-inequality/&quot;&gt;The Other America: How the COVID-19 Pandemic Has Widened an Existing Rift in Educational Inequality&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;the-slice&quot;&gt;&lt;a href=&quot;https://theslice.movie.blog&quot;&gt;The Slice&lt;/a&gt;&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://theslice.movie.blog/2020/06/28/anticipation-for-euphoria-season-2-popularity-on-tiktok/&quot;&gt;Anticipation For ‘Euphoria’ Season 2 &amp;amp; Popularity on TikTok&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;smart-meetings&quot;&gt;&lt;a href=&quot;https://www.smartmeetings.com/&quot;&gt;Smart Meetings&lt;/a&gt;&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.smartmeetings.com/meeting-planning/health-and-wellness/125337/how-to-support-mental-health-event-planners&quot;&gt;How to Support the Mental Health of Event Planners&lt;/a&gt;&lt;/li&gt;
@@ -111,6 +129,8 @@
 &lt;h4 id=&quot;the-beet&quot;&gt;&lt;a href=&quot;https://thebeet.com/&quot;&gt;The Beet&lt;/a&gt;&lt;/h4&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebeet.com/emma-thompson-takes-on-climate-activist-role-in-short-vegan-film/&quot;&gt;Emma Thompson Takes on Climate Activist Role in Short Vegan Film&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://thebeet.com/the-10-best-mothers-day-beauty-gifts-all-natural-vegan-cruelty-free/&quot;&gt;The 10 Best Mother’s Day Beauty Gifts: All Natural, Vegan &amp;amp; Cruelty Free&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thebeet.com/why-is-alicia-silverstone-tweeting-at-startbucks-and-peta-buying-stock-to-eliminate-the-vegan-milk-surcharge/&quot;&gt;PETA Buys Stock in Starbucks in an Effort to Eliminate the Vegan Milk Surcharge &amp;amp; Alicia Silverstone Tweets&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thebeet.com/listen-to-these-6-podcasts-to-grow-your-plant-based-knowledge/&quot;&gt;Listen to These 6 Podcasts to Grow Your Plant-Based Knowledge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://thebeet.com/10-vegan-and-cruelty-free-beauty-essentials-for-fall/&quot;&gt;10 Vegan and Cruelty-Free Beauty Essentials For Fall&lt;/a&gt;&lt;/li&gt;
@@ -129,7 +149,7 @@
   &lt;li&gt;&lt;a href=&quot;https://www.collegemagazine.com/do-i-really-belong-at-the-university-of-california-berkeley/&quot;&gt;Do I Really Belong at the University of California, Berkeley?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sat, 14 Dec 2019 00:00:00 -0800</pubDate>
+        <pubDate>Sat, 14 Dec 2019 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/works/articles.html</link>
         <guid isPermaLink="true">http://localhost:4000/works/articles.html</guid>
         
